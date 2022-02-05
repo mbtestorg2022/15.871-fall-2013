@@ -58,11 +58,48 @@ In this course, we use modeling software. Several excellent packages for system 
 Grading
 -------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Assignments | 70 |
-| Class participation | 15 |
-| Peer evaluation | 15 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Assignments
+{{< tdclose >}}
+{{< tdopen >}}
+70
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class participation
+{{< tdclose >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Peer evaluation
+{{< tdclose >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Assignments are due by 5 pm on the due date—you should never skip class to complete an assignment. Each assignment is graded on a 10-point scale. A minimum of two points will be forfeited for assignments turned in late. Assignments handed in more than one class late receive no credit. _This policy is strictly enforced_.
 
@@ -74,19 +111,256 @@ Some assignments will be done in teams of three. At the end of the course you wi
 Calendar
 --------
 
-| SES # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| AssignmentS out | AssignmentS due |
-| --- | --- |
-| 1 |  {{< br >}}{{< br >}} Introduction: Purpose and concepts of system dynamics {{< br >}}{{< br >}}  | Assignment 0 out | &nbsp; |
-| 2 |  {{< br >}}{{< br >}} System Dynamics Tools Part 1: Building a model {{< br >}}{{< br >}}  | Assignment 1 out | Assignment 0 due |
-| 3 |  {{< br >}}{{< br >}} System Dynamics Tools Part 2: Problem definition and model purpose; building theory with causal loop diagrams {{< br >}}{{< br >}}  | &nbsp; |
-| 4 |  {{< br >}}{{< br >}} System Dynamics Tools Part 3: Mapping the stock and flow structure of systems {{< br >}}{{< br >}}  | Assignment 2 out | Assignment 1 due |
-| 5 |  {{< br >}}{{< br >}} System Dynamics Tools Part 4: Dynamics of stocks and flows; linking feedback with stock and flow structure {{< br >}}{{< br >}}  | &nbsp; |
-| 6 |  {{< br >}}{{< br >}} System Dynamics Tools Part 5: Understanding the Dynamics of Simple Systems {{< br >}}{{< br >}}  | Assignment 3 out | Assignment 2 due |
-| 7 |  {{< br >}}{{< br >}} System Dynamics Tools Part 6: Analyzing Systems and Creating Robust Policies {{< br >}}{{< br >}}  | &nbsp; |
-| 8 | Industry dynamics and diffusion models | Assignment 4 out | Assignment 3 due |
-| 9 |  {{< br >}}{{< br >}} Growth Strategies: Network externalities, complementarities, and path dependence {{< br >}}{{< br >}}  | &nbsp; |
-| 10 |  {{< br >}}{{< br >}} Guest Lecture: Mark Paich System Dynamics at General Motors and beyond {{< br >}}{{< br >}}  | &nbsp; |
-| 11 |  {{< br >}}{{< br >}} Interactions of Operations, Strategy, and Human Resource Policy: The case of People Express {{< br >}}{{< br >}}  | Assignment 5 out | Assignment 4 due |
-| 12 |  {{< br >}}{{< br >}} Lessons from People Express. {{< br >}}{{< br >}} Course wrap up and evaluations. {{< br >}}{{< br >}}  | &nbsp; | Assignment 5 due
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< thopen >}}
+AssignmentS out
+{{< thclose >}}
+{{< thopen >}}
+AssignmentS due
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Introduction: Purpose and concepts of system dynamics
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 0 out
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+System Dynamics Tools Part 1: Building a model
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 1 out
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 0 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+System Dynamics Tools Part 2: Problem definition and model purpose; building theory with causal loop diagrams
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+System Dynamics Tools Part 3: Mapping the stock and flow structure of systems
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 2 out
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 1 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+System Dynamics Tools Part 4: Dynamics of stocks and flows; linking feedback with stock and flow structure
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+System Dynamics Tools Part 5: Understanding the Dynamics of Simple Systems
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 3 out
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 2 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+System Dynamics Tools Part 6: Analyzing Systems and Creating Robust Policies
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Industry dynamics and diffusion models
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 4 out
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 3 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Growth Strategies: Network externalities, complementarities, and path dependence
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Guest Lecture: Mark Paich System Dynamics at General Motors and beyond
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Interactions of Operations, Strategy, and Human Resource Policy: The case of People Express
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 5 out
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 4 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Lessons from People Express.
+
+Course wrap up and evaluations.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 5 due
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
