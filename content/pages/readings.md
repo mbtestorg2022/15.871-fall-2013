@@ -154,7 +154,7 @@ Industry dynamics and diffusion models
 {{< tdopen >}}
 
 
-RSC case: Farr, Warren. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Using System Dynamics to Create Durable Business Strategy." (PDF)](https://proceedings.systemdynamics.org/2012/proceed/papers/P1175.pdf)
+RSC case: Farr, Warren. ["Using System Dynamics to Create Durable Business Strategy." (PDF)](https://proceedings.systemdynamics.org/2012/proceed/papers/P1175.pdf)
 
 \[BD\] 9.3–9.4.
 
